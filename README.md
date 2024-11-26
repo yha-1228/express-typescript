@@ -1,1 +1,1 @@
-Express REST API example.
+express + ts playground
